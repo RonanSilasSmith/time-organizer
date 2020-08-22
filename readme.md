@@ -11,3 +11,6 @@ despite not being finished I can say that the solutions I manage from this point
 The idea of resetting the page after every save sounds awful, but at this point in the code I have written myself into a corner with hours of work catching up with me;
 
 either way, I'm confident that the end product will function perfectly; I have the infrastructure to do what was asked of me; I just hate everything about the direction I took it;
+
+
+Ok, about 15 minutes passed after I wrote this readme, things were looking up for the project actually. Then everything broke. Like badly. especially localStorage.
